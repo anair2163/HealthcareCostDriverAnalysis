@@ -1,0 +1,12 @@
+# Data (never commit)
+data/raw/
+data/processed/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS junk
+.DS_Store
+
+# Python cache
+__pycache__/
